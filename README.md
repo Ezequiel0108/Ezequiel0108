@@ -45,6 +45,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://bahiaxip.com/image/post/main/UrgQUmuePatSiP3K4CtPLCHIlv47Y7H5tt5lcKDU.jpeg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://okitup.com/wp-content/uploads/2019/10/laravel-300x300.webp" alt="Laravel" width="40" height="40"/></a>
 </p>
 
