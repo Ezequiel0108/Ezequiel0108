@@ -35,7 +35,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="[https://linkedin.com/in/ezequiel-tun-arcique](https://www.linkedin.com/in/ezequiel-tun-arcique-35b042266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ezequiel-tun-arcique-35b042266" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
