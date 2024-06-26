@@ -26,7 +26,7 @@
   - Workout routine management and QR-based attendance tracking at [Pure Energy Gym](https://pureenergygym.com.mx/).
 
 - [**Scalable e-commerce platform using PHP**](https://iccomerse.000webhostapp.com/index.php): Demonstrates proficiency in building robust online stores.
-- 
+
 - 💬 Ask me about **PHP and Laravel development, optimal database design, and API integration best practices.**
 
 - 📫 Reach me at **ezequielta63@gmail.com**
