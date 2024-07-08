@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Ezequiel</h1>
+<h1 align="center">Hi, I'm Ezequiel</h1>
 
 <h3 align="center">Experienced Computer Systems Engineer specializing in back-end development with over 2 years of work experience and more than 4 years of expertise in PHP and Laravel. Skilled in MySQL, phpMyAdmin, Git, GitHub, and GitLab, with additional proficiency in front-end technologies including JavaScript, HTML, CSS, Bootstrap, and Angular.</h3>
 
