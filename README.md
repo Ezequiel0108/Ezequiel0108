@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ezequiel</h1>
 
-<h3 align="center">Experienced Computer Systems Engineer specializing in back-end development with over 2 years of work experience and more than 4 years of expertise in PHP and Laravel. Skilled in MySQL, phpMyAdmin, Git, GitHub, and GitLab, with additional proficiency in front-end technologies including JavaScript, HTML, CSS, Bootstrap, and Angular.</h3>
+<h3 align="center">Experienced Computer Systems Engineer specializing in back-end development with over 2 years of work experience in PHP and Laravel. Skilled in MySQL, phpMyAdmin, Git, GitHub, and GitLab, with additional proficiency in front-end technologies including JavaScript, HTML, CSS, Bootstrap, and Angular.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezequiel0108&label=Profile%20views&color=0e75b6&style=flat-square" alt="ezequiel0108" /> </p>
 
