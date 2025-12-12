@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ezequiel 👋</h1>
 
 <h3 align="center">
-Mid-Level Backend Developer specialized in PHP & Laravel • 3+ years of experience • REST APIs • Production-ready Systems
+Mid-Level Backend Developer specialized in PHP & Laravel • 4+ years of experience • REST APIs • Production-ready Systems
 </h3>
 
 <p align="center">
